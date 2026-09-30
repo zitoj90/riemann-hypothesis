@@ -47,7 +47,7 @@ Please note that only the foundational mathematical constants are open source fo
 2. Bombieri, Enrico (2000). "The Riemann Hypothesis." Official Problem Description. Clay Mathematics Institute (CMI).
 3. Conrey, J. Brian (1989). "More than two fifths of the zeros of the Riemann zeta function are on the critical line." Journal für die reine und angewandte Mathematik.
 4. Anthropic Research (August 10, 2026). "Learning more about Claude's mathematical capabilities." Anthropic Academic Announcements.
-5. Lamzouri, Youness (September 2, 2026). "A new proof that more than 2/3 of the zeros of the Riemann zeta function are simple and on the critical line." arXiv:2609.02882 [math.NT].
+5. Lamzouri, Youness (September 2, 2026). "A new proof that more than 2/3 of the zeros of the Riemann zeta function are simple and on the critical line."
 
 ---
 *Document Sealed: Jonathan Zito, System Architect.*
